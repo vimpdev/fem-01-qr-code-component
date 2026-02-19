@@ -26,7 +26,7 @@ Built with semantic HTML, modern CSS and accessibility best practices.
 ## 🔗 Links
 
 - [Live site URL](https://vimpdev.github.io/fem-01-qr-code-component/) ↗️
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- [Frontend Mentor solution](https://www.frontendmentor.io/solutions/qr-code-component-html-and-css--Mgzslisjo)
 
 ---
 
